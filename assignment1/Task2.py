@@ -205,7 +205,6 @@ all_data = pd.concat([train, test])
 
 # In[22]:
 
-all_data[all_data['Embarked'].isnull()]
 
 # In[23]:
 
