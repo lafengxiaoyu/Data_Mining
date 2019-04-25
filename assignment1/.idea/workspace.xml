@@ -12,13 +12,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Task2a.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Task2a.py">
+      <file leaf-file-name="Task1a.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Task1a.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+            <state relative-caret-position="-93">
+              <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Task2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Task2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="12" />
+              <folding>
+                <element signature="e#16#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -36,15 +48,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Task1a.py" />
         <option value="$PROJECT_DIR$/Task2.py" />
         <option value="$PROJECT_DIR$/Task2a.py" />
+        <option value="$PROJECT_DIR$/Task1a.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="275" />
-    <option name="y" value="93" />
+    <option name="x" value="248" />
+    <option name="y" value="137" />
     <option name="width" value="1165" />
     <option name="height" value="757" />
   </component>
@@ -63,8 +75,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -251,7 +263,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="275" y="93" width="1165" height="757" extended-state="0" />
+    <frame x="248" y="137" width="1165" height="757" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24978541" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -286,11 +298,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Task2a.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task2a.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#19#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -298,7 +316,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
-          <folding />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -313,7 +333,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="0" lean-forward="false" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -328,7 +350,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="615">
           <caret line="41" column="0" lean-forward="true" selection-start-line="41" selection-start-column="0" selection-end-line="41" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#16#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -388,13 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task1a.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-808">
-          <caret line="152" column="0" lean-forward="true" selection-start-line="152" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/task2b.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -402,20 +419,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task2.py">
+    <entry file="file://$PROJECT_DIR$/Task2a.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3744">
-          <caret line="11" column="54" lean-forward="false" selection-start-line="11" selection-start-column="54" selection-end-line="11" selection-end-column="54" />
+        <state relative-caret-position="165">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Task2a.py">
+    <entry file="file://$PROJECT_DIR$/Task2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="63" lean-forward="true" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
+        <state relative-caret-position="360">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="12" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#16#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Task1a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-93">
+          <caret line="33" column="4" lean-forward="false" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>

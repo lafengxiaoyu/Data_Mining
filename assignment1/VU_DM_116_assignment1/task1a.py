@@ -20,6 +20,7 @@ with open("ODI-2019-csv.csv","r") as csv_file:
     for row in reader:
         l.append(row)
 
+
 # print the number of records
 print ("The number of records: %d" %(len(l) - 1))
 
